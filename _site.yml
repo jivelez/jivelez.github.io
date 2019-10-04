@@ -1,12 +1,20 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Jorge I Velez"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      href: research.html
+    - text: "Books"
+      href: books.html
+    - text: "Students"
+      href: students.html
 output:
   html_document:
     theme: united

@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+
+<br>
+
+### Interests
+* Bioinformatics
+* Predictive Genomics
+* Population Genetics
+* Data Analytics
+* Genetic Epidemiology
+<br>
+
+
+### Current Projects
+
+1.	Detección de Variantes de Efecto Mayor en Enfermedades Complejas. **Principal Investigator**. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.
+2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175. 
+3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
+
+
+<br>
+
+### Publications
+

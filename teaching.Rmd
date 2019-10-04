@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+---
+
+### Data Analysis in Engineerig II
+This is a course offered to 6th semester students of the Industrial Engineering program. It is meant to introduce basic and intermediate concepts in
+
+1. Simple and Multiple Linear Regression
+2. Advanced Linear Regression Models, which include Nonlinear Regression, Logistic Regression and Poisson Regression
+3. Time Series Analysis, including stationary and nonstationary time series, Smoothing and ARIMA$(p,d,q)$ models
+4. Nonparametric statistics
+
+This has been offered during the 2016-10, 2016-30, 2017-10, 2017-30, 2018-10,  2018-30, 2019-10 and 2019-30 semesters.
+
+<br>
+
+### Design of Experiments 
+This course is offered every year to MSc and PhD students in Industrial Engineering, and Biomedical Sciences. We explore the fundamentals of 
+
+1. One- and two-fixed factors experimental designs
+2. Blocking
+3. Designs with one- and two-random factors
+4. $2^k$ and $3^k$ designs
+5. Response surface methodology
+
+This course has been offered during the 2017-30, 2018-30 and 2019-30 semesters.
+
+<br>
+
+
+### Bioinformatics
+
+
+
+### Population Genetics
+
+
+
+
+### Applied Data Science (coming soon!)
+
+
