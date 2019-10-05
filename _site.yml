@@ -17,5 +17,5 @@ navbar:
       href: students.html
 output:
   html_document:
-    theme: united
+    theme: flatly
     highlight: textmate

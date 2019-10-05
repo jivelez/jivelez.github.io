@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-### Data Analysis in Engineerig II
+#### Data Analysis in Engineerig II
 This is a course offered to 6th semester students of the Industrial Engineering program. It is meant to introduce basic and intermediate concepts in
 
 1. Simple and Multiple Linear Regression
@@ -14,8 +14,8 @@ This has been offered during the 2016-10, 2016-30, 2017-10, 2017-30, 2018-10,  2
 
 <br>
 
-### Design of Experiments 
-This course is offered every year to MSc and PhD students in Industrial Engineering, and Biomedical Sciences. We explore the fundamentals of 
+#### Design of Experiments 
+This course is offered every year to [MSc](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) students in Industrial Engineering, and [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students in Biomedical Sciences. We explore the fundamentals of 
 
 1. One- and two-fixed factors experimental designs
 2. Blocking
@@ -28,15 +28,44 @@ This course has been offered during the 2017-30, 2018-30 and 2019-30 semesters.
 <br>
 
 
-### Bioinformatics
+#### Introduction to Bioinformatics
+This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program.  Here we discuss: 
+
+1. Genome organization
+2. How *omics* data are generated
+3. Sequencing techniques, including whole-exome and whole-genome sequencing and genotyping as well as TaqMan assays. We also include [vcf](https://www.ebi.ac.uk/training/online/course/human-genetic-variation-i-introduction-2019/variant-identification-and-analysis-0#targetText=VCF%20is%20the%20standard%20file%20format%20for%20storing%20variation%20data.&targetText=VCF%20is%20a%20preferred%20format,are%20tab%20delimited%20text%20files.), [BAM](https://genome.sph.umich.edu/wiki/BAM) and [SAM](https://en.wikipedia.org/wiki/SAM_(file_format)) formats
+4. Genome and protein databases and how to query them
+5. How to perform functional prediction of biological sequences
+
+This couse has been offered during the 2017-30 and 2018-30 semesters.
+
+<br>
+
+#### Population Genetics
+This course is offered to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. We discuss
+
+1. General concepts of genetics, including allele frequencies at the population level, the Hardy-Weinberg principle and its implications
+2. Principles of Genetic Epidemiology, including inheritance models, pleiotropy, variable expressivity and modifier genes
+3. Segregation, linkage and association analysis, genetic differentiation and genetic diversity in humans
+
+This couse has been offered during the 2017-10, 2018-10 and 2019-10 semesters.
+
+<br>
+
+#### Biostatistics for Biomedical Sciences
+I will be teaching this course for the fist time during the 2019-30 semester. This course is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
+
+<br>
 
 
+#### Applied Data Science (coming soon!)
+This a new elective course at Universidad del Norte. It will be offered to BSc students mainly from Engineering, Psychology, Mathematics and Economy undergraduate programs.   
 
-### Population Genetics
+We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Models and Data Visualization. As expectedm, most of the work will be performed in [R](https://www.r-project.org/).
+
+<br><br>
 
 
-
-
-### Applied Data Science (coming soon!)
-
-
+<center>
+Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+<center>

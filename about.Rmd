@@ -2,9 +2,14 @@
 title: "About me"
 ---
 
-I am Assistant Professor of the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/departamento-de-ingenieria-industrial/contactenos) at [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia. 
+I am Assistant Professor of the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/departamento-de-ingenieria-industrial) at [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia. 
 
 My research interest include Bioinformatics, Population Genetics, Genetic Epidemiology, Predictive Genomics and Data Analytics.
 
 You can contact me by [email](mailto:jvelezv@uninorte.edu.co)
 
+<br><br>
+
+<center>
+Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+<center>

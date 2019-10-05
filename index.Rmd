@@ -3,7 +3,11 @@
 <center>
 
 <center>
-<img src="images/carnaval.jpeg" alt="uninorte" width="880" height="553">
+<img src="images/carnaval.jpeg" alt="uninorte" width="580" height="353">
+<br>
 Image from [here](https://laarenosa.com/carnaval-de-barranquilla-2020/)
+<br><br><br>
+Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 </center>
+
 

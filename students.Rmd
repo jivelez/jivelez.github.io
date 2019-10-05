@@ -4,9 +4,16 @@ title: "Students"
 
 #### PhD students
 1. [Martha L. Cervantes](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000743534). PhD student in Biomedical Sciences
-2. José Luis López-Prado. PhD student in Industrial Engineering (with Guisselle García Llinás)
+2. José Luis López-Prado. PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
 <br><br>
 
 #### MSc students
 1. Luiggi Samper. MSc student in Epidemiology
 2. Daniela Cassandro. MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000097535))
+
+<br><br>
+
+
+<center>
+Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+<center>

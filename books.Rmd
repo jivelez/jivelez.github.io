@@ -1,0 +1,7 @@
+
+<br><br>
+
+
+<center>
+Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+<center>
