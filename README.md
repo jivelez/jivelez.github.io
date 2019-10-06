@@ -1,2 +1,2 @@
 # jivelez.github.io
-Este es un repositorio de ejemplo para la creación de una página web
+This is my githup repository for creating and hosting my personal website 
