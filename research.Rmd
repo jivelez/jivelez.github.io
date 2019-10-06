@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-<br>
-
 ### Interests
 * Bioinformatics
 * Predictive Genomics
@@ -21,6 +19,20 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 
 <br>
 
+### Achievements
+* The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene conferring susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD) and predicting response to stimulant medication;
+
+*  The identification of a key genetic interaction between *LPHN3* and 11q that [doubles the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD and predicts [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms;
+
+*  The identification of genetic interactions between variants in the *LPHN3* gene and the *NCAM1-DRD2-TTC12* [gene cluster](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351604/) modifying the severity symptoms in ADHD.
+
+*  Developement of the statistical, computational and analytical framework for the functional analysis of genetic variants in the [*SIX3*](http://hmg.oxfordjournals.org/content/17/24/3919.long)  gene using zebrafish, and the genetic analysis of mutations in the [*NODAL*](http://www.sciencedirect.com/science/article/pii/S1096719209001383) signalling pathway.
+
+*  Development and implementation of a [statistical strategy](http://www.nature.com/mp/journal/v18/n5/full/mp201281a.html) that allowed the identification of genes modifying the age of onset in patients with Alzheimer's disease.  
+
+* Identification of age of onset modifier genes in [familial](https://www.nature.com/articles/mp2015177) and [sporadic](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.b.32493) Alzheimer's disease.
+
+<br>
 
 ### Current Projects
 
@@ -29,6 +41,23 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
 
 <br>
+
+### University Honors & Awards 
+
+1.	**Outstanding Research Award**, Division of Engineering, Universidad del Norte, Barranquilla, Colombia. January 15, 2019. This award recognizes the outstanding publishing record of up to five Professors/Researchers of the Division of Engineering during the previous academic year. 
+2.	**Visitor Researcher**, Genomics and Predictive Medicine Group, John Curtin School of Medical Research, The Australian National University, Canberra, ACT, Australia. April 11, 2016-date. 
+3.	**Eccles Scholarship in Medical Sciences (1279/2010)**, The Australian National University, Canberra, ACT, Australia. This scholarship is awarded to International Students to pursue a full-time program of study for the degree of Doctor of Philosophy of the Australian National University within the John Curtin School of Medical Research. 
+4.	**Fenner Merit Scholarship (1369/2010)**, The Australian National University, Canberra, ACT, Australia. The scholarship is named in honour of Professor Frank Fenner, and its purpose is to attract students of high calibre to pursue postgraduate research for a PhD degree at the John Curtin School of Medical Research.
+5.	**ANU Higher Degree Research (HDR) Merit Scholarship**, The Australian National University, Canberra, ACT, Australia. This scholarship covers tuition fees for the standard duration of the PhD program.
+6.	**Intramural Research Training Award (IRTA)**, Muenke Lab, Medical Genetics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA. August 2007–August 2012.
+7.	**Scholarship** to attend the 4th International Colloquium in Statistics: Statistics in Finances and Industry at the National University of Colombia at Medellín and the Faculty of Financial Engineering, University of Medellín. Medellín, July 27-29, 2006.
+8.	**Scholarship** to attend the Graduate course “Statistics Genetics and Bioinformatics” by the NHGRI, the Corporación para Investigaciones Biológicas, the University of Antioquia and the National University of Colombia at Medellín. Medellín, Colombia, June 1-9, 2006.
+9.	**Scholarship** for the Master in Statistics Program, School of Statistics, National University of Colombia at Medellín, 2006.
+10.	**Scholarship** for the Industrial Engineering Program of the National University of Colombia at Medellín, 2000–2005.
+
+
+<br>
+
 
 ### Press Releases
 1.	La detección del TDAH ya tiene hoja de ruta en Barranquilla, [El Heraldo](https://www.elheraldo.co/ciencia/la-deteccion-del-tdah-ya-tiene-hoja-de-ruta-en-barranquilla-663662), Septiembre 8, 2019.

@@ -1,3 +1,9 @@
+<br>
+
+### Advanced Regression Models
+I am currently preparing this textbook. It is oriented to cover the topics 
+discussed in the course [Data Analysis in Engineering II](https://jivelez.github.io/teaching.html).
+
 
 <br><br>
 

@@ -2,14 +2,18 @@
 title: "About me"
 ---
 
-I am Assistant Professor of the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/departamento-de-ingenieria-industrial) at [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia. 
+I am Assistant Professor at the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/departamento-de-ingenieria-industrial) of the [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia. 
+
+I have been honoured to earn a PhD in Medical Sciences (Genomics and Precision Medicine) from the prestigiuous [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/) in Canberra, ACT, Australia, under the supervision of [Dr. Mauricio Arcos-Burgos](https://scholar.google.com.co/citations?user=MZlwFqgAAAAJ&hl=en).
 
 My research interest include Bioinformatics, Population Genetics, Genetic Epidemiology, Predictive Genomics and Data Analytics.
 
-You can contact me by [email](mailto:jvelezv@uninorte.edu.co)
+You can contact me by [email](mailto:jvelezv@uninorte.edu.co).
 
-<br><br>
+<br>
 
 <center>
+<img src="images/uninorte.png" alt="uninorte" width="250" height="150">
+<br><br><br>
 Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
-<center>
+</center>
