@@ -54,15 +54,17 @@ This course has been offered during the 2017-10, 2018-10 and 2019-10 semesters.
 <br>
 
 ### Biostatistics for Biomedical Sciences
-I will be teaching this course for the fist time during the 2019-30 semester. This course is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
+I will be teaching this course during the 2019-30 semester. This course is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
 
 <br>
 
 
 ### Applied Data Science (coming soon!)
-This a new elective course at Universidad del Norte. It will be offered to BSc students mainly from Engineering, Psychology, Mathematics and Economy undergraduate programs.   
+This a new elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs at Universidad del Norte.     
 
-We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modelling and Data Visualization. As expectedm, most of the work will be performed in [R](https://www.r-project.org/).
+We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modelling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
+
+Should you are interested, contact me by [email](mailto:jvelezv@uninorte.edu.co).
 
 <br><br>
 
