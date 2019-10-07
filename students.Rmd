@@ -11,9 +11,9 @@ title: "Students"
 1. Luiggi Samper. MSc student in Epidemiology
 2. [Daniela Cassandro](https://co.linkedin.com/in/daniela-cassandro-de-la-hoz-490b82b1). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ))
 
-<br><br>
-
-
 <center>
+<br><br><br>
+<hr>
 Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
-<center>
+<hr>
+</center>

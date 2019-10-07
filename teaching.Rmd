@@ -66,9 +66,9 @@ We will discuss elements of Data Analytics, Computational Statistics, Dimensiona
 
 Should you are interested, contact me by [email](mailto:jvelezv@uninorte.edu.co).
 
-<br><br>
-
-
 <center>
+<br><br><br>
+<hr>
 Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
-<center>
+<hr>
+</center>

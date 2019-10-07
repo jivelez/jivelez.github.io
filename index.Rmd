@@ -7,7 +7,9 @@
 <br>
 Image from [here](https://laarenosa.com/carnaval-de-barranquilla-2020/)
 <br><br><br>
+<hr>
 Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+<hr>
 </center>
 
 

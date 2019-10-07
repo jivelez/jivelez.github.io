@@ -74,9 +74,9 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 
 
 
-<br><br>
-
-
 <center>
+<br><br><br>
+<hr>
 Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
-<center>
+<hr>
+</center>
