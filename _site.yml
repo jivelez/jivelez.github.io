@@ -4,17 +4,28 @@ navbar:
   title: "Jorge I Vélez"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-male
       href: about.html
     - text: "Teaching"
+      icon: fa-university
       href: teaching.html
     - text: "Research"
+      icon: fa-flask
       href: research.html
     - text: "Books"
+      icon: fa-book
       href: books.html
     - text: "Students"
+      icon: fa-user-graduate
       href: students.html
+  right:
+  - icon: fa-university
+    href: https://www.uninorte.edu.co/web/ingenieria-industrial/nuestros-docentes?p_p_id=InformacionDocenteUninorte2_WAR_InformacionDocenteV3&docenteID=71365457
+  - icon: fa-file-o
+    href: https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639
 output:
   html_document:
     theme: flatly
