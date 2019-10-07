@@ -60,7 +60,7 @@ I will be teaching this course during the 2019-30 semester. This course is orien
 
 
 ### Applied Data Science (coming soon!)
-This a new elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs at Universidad del Norte.     
+This a new elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs.
 
 We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modelling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
 
