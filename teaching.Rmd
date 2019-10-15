@@ -4,7 +4,7 @@ title: "Teaching"
 <br>
 
 ### Data Analysis in Engineerig II
-This is a course offered to 6th semester students of the [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) program. It is meant to introduce basic and intermediate concepts in
+This is a course offered to 6th semester students of the [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) program. We introduce basic and intermediate concepts in
 
 1. Simple and Multiple Linear Regression
 2. Advanced Linear Regression Models, which include Nonlinear Regression, Logistic Regression and Poisson Regression
@@ -30,7 +30,7 @@ This course has been offered during the 2017-30, 2018-30 and 2019-30 semesters.
 
 
 ### Introduction to Bioinformatics
-This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program. It is offered once a year and cover the following topics:
+This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program. It is offered once a year and covers the following topics:
 
 1. Genome organization
 2. How *omics* data are generated
