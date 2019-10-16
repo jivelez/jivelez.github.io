@@ -20,7 +20,7 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 <br>
 
 ### Achievements
-* The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene that confer susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD), predict response to stimulant medication, [double the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD, predict [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms, and [substance use disorder](https://www.nature.com/articles/s41398-019-0396-7).
+* The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene that confer susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD) and [substance use disorder](https://www.nature.com/articles/s41398-019-0396-7), [double the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD, and predict response to stimulant medication and  predict [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms.
 
 *  Identified that a common common genetic network involving the *LPHN3* gene and the [*NCAM1-DRD2-TTC12*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351604/) gene cluster underlies substance use disorders and disruptive or externalizing disorders.
 
@@ -30,12 +30,13 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 
 * Identification of age of onset modifier genes in [familial](https://www.nature.com/articles/mp2015177) and [sporadic](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.b.32493) Alzheimer's disease.
 
+
 <br>
 
 ### Current Projects
 
 1.	Detección de Variantes de Efecto Mayor en Enfermedades Complejas. **Principal Investigator**. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.
-2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175. 
+2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175.
 3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
 
 <br>

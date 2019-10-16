@@ -7,9 +7,9 @@ title: "Teaching"
 This is a course offered to 6th semester students of the [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) program. We introduce basic and intermediate concepts in
 
 1. Simple and Multiple Linear Regression
-2. Advanced Linear Regression Models, which include Nonlinear Regression, Logistic Regression and Poisson Regression
-3. Time Series Analysis, including stationary and nonstationary time series, Smoothing and ARIMA$(p,d,q)$ models
-4. Nonparametric statistics
+2. Advanced Linear Regression Models, which include Nonlinear, Logistic and Poisson Regressions
+3. Time Series Analysis, including stationary and nonstationary time series, and forecasting methods such as decomposition, smoothing and ARIMA$(p,d,q)$ models
+4. Introduction to nonparametric statistics, which includes the sign tests, signed-rank, Wilcoxon-Mann-Whitney and Kruskal-Wallis tests
 
 This has been offered during the 2016-10, 2016-30, 2017-10, 2017-30, 2018-10,  2018-30, 2019-10 and 2019-30 semesters.
 
@@ -33,10 +33,11 @@ This course has been offered during the 2017-30, 2018-30 and 2019-30 semesters.
 This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program. It is offered once a year and covers the following topics:
 
 1. Genome organization
-2. How *omics* data are generated
-3. Sequencing techniques, including whole-exome and whole-genome sequencing and genotyping as well as TaqMan assays. We also include [vcf](https://www.ebi.ac.uk/training/online/course/human-genetic-variation-i-introduction-2019/variant-identification-and-analysis-0#targetText=VCF%20is%20the%20standard%20file%20format%20for%20storing%20variation%20data.&targetText=VCF%20is%20a%20preferred%20format,are%20tab%20delimited%20text%20files.), [BAM](https://genome.sph.umich.edu/wiki/BAM) and [SAM](https://en.wikipedia.org/wiki/SAM_(file_format)) formats
-4. Genome and protein databases and how to query them
-5. How to perform functional prediction of biological sequences
+2. Generation of *omics* data
+3. Sequencing techniques. 
+4. [vcf](https://www.ebi.ac.uk/training/online/course/human-genetic-variation-i-introduction-2019/variant-identification-and-analysis-0#targetText=VCF%20is%20the%20standard%20file%20format%20for%20storing%20variation%20data.&targetText=VCF%20is%20a%20preferred%20format,are%20tab%20delimited%20text%20files.), [BAM](https://genome.sph.umich.edu/wiki/BAM) and [SAM](https://en.wikipedia.org/wiki/SAM_(file_format)) formats
+5. Genome and protein databases and how to query them
+6. Functional prediction of biological sequences
 
 This course has been offered during the 2017-30 and 2018-30 semesters.
 
@@ -54,7 +55,7 @@ This course has been offered during the 2017-10, 2018-10 and 2019-10 semesters.
 <br>
 
 ### Biostatistics for Biomedical Sciences
-I will be teaching this course during the 2019-30 semester. This course is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
+This course will be offered during the 2019-30 semester, and is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
 
 <br>
 
