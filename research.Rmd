@@ -20,7 +20,7 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 <br>
 
 ### Achievements
-* The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene that confer susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD) and [substance use disorder](https://www.nature.com/articles/s41398-019-0396-7), [double the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD, and predict response to stimulant medication and  predict [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms.
+* The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene that confer susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD) and [substance use disorder](https://www.nature.com/articles/s41398-019-0396-7), [double the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD, and predict response to stimulant medication and  [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms.
 
 *  Identified that a common common genetic network involving the *LPHN3* gene and the [*NCAM1-DRD2-TTC12*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351604/) gene cluster underlies substance use disorders and disruptive or externalizing disorders.
 
