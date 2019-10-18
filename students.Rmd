@@ -4,7 +4,7 @@ title: "Students"
 
 #### PhD students
 1. [Martha L. Cervantes](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000743534). PhD student in Biomedical Sciences (with [Pedro Puentes](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133))
-2. José Luis López-Prado. PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
+2. [José Luis López-Prado](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001486987). PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
 <br> 
 
 #### MSc students
