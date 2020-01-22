@@ -55,10 +55,27 @@ This course has been offered during the 2017-10, 2018-10 and 2019-10 semesters.
 <br>
 
 ### Biostatistics for Biomedical Sciences
-This course will be offered during the 2019-30 semester, and is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
+This course, offered during the 2019-30 semester, is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
+
+We discuss 
+
+1. Exploratory Data Analysis;
+2. Hypothesis testing;
+3. Analysis of two-way contingency tables;
+3. Simple and multiple linear regression models; and
+4. Logistic Regression.
+
 
 <br>
 
+
+### Advanced Statistics 
+This a *new* elective course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte.  
+
+We discuss elements of Exploratory Data Analysis, Predictive Modelling and Classification Methods, including their implementation and automation in  [R](https://www.r-project.org/). 
+
+
+<br>
 
 ### Applied Data Science (coming soon!)
 This a *new* elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs.
@@ -70,6 +87,6 @@ Should you are interested, contact me by [email](mailto:jvelezv@uninorte.edu.co)
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>

@@ -16,7 +16,7 @@ You can contact me by [email](mailto:jvelezv@uninorte.edu.co).
 <img src="images/uninorte.png" alt="uninorte" width="250" height="150">
 <br><br><br>
 <hr>
-Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>
 

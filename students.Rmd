@@ -15,6 +15,6 @@ title: "Students"
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2019, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>
