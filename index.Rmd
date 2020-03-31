@@ -3,9 +3,7 @@
 <center>
 
 <center>
-<img src="images/carnaval.jpeg" width="580" height="353">
-<br>
-Image from [here](https://laarenosa.com/carnaval-de-barranquilla-2020/)
+<img src="images/mecartoon.jpg" width="280" height="320">
 <br><br><br>
 <hr>
 Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
