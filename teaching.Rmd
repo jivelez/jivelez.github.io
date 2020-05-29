@@ -3,7 +3,7 @@ title: "Teaching"
 ---
 <br>
 
-### Data Analysis in Engineerig II
+### Data Analysis in Engineering II
 This is a course offered to 6th semester students of the [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) program. We introduce basic and intermediate concepts in
 
 1. Simple and Multiple Linear Regression
