@@ -22,8 +22,19 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -358,7 +369,6 @@ $(document).ready(function () {
 <h3>Publications</h3>
 <p>I have authored or have been a co-author of more than 70 peer reviewed manuscripts.</p>
 <p>You can access some of my publications in <a href="https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&amp;hl=en">Google Scholar</a>, <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Velez+JI">PubMed</a>, <a href="https://www.researchgate.net/profile/Jorge_Velez13">Research Gate</a>, <a href="https://www.scopus.com/authid/detail.uri?authorId=24336983600">SCOPUS</a> and <a href="https://orcid.org/0000-0002-3146-7899">ORCID</a>.</p>
-<p>A copy of my CV is available from <a href="https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing">here</a>.</p>
 <p><br></p>
 </div>
 <div id="achievements" class="section level3">
@@ -378,6 +388,7 @@ $(document).ready(function () {
 <li>Detección de Variantes de Efecto Mayor en Enfermedades Complejas. <strong>Principal Investigator</strong>. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.</li>
 <li>Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. <strong>Coinvestigator</strong>. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175.</li>
 <li>Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. <strong>Coinvestigator</strong>. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.</li>
+<li>Nuevos ARN no codificantes exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer. <strong>Principal coinvestigator</strong> Financed by COLCIENCIAS. 2020-2022. COP$349,977,076.</li>
 </ol>
 <p><br></p>
 </div>
@@ -400,6 +411,7 @@ $(document).ready(function () {
 <div id="press-releases" class="section level3">
 <h3>Press Releases</h3>
 <ul>
+<li>La edad de inicio del Alzheimer: un enigma que abre puertas a la genética, <a href="https://www.uninorte.edu.co/web/intellecta/la-edad-de-inicio-del-alzheimer-un-enigma-que-abre-puertas-a-la-genetica">Revista Intellecta</a>, Edición #5, Octubre 2020.</li>
 <li>Identifican siete subgrupos de pacientes con Chikunguña en Barranquilla, <a href="https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=15532955&amp;groupId=73923">Universidad del Norte Intellecta</a>, Junio 19, 2020.</li>
 <li>Una mirada a la Medicina del Futuro, <a href="https://www.uninorte.edu.co/web/intellecta/una-mirada-a-la-medicina-del-futuro">Revista Intellecta</a>, Edición #4, 2019.</li>
 <li>La detección del TDAH ya tiene hoja de ruta en Barranquilla, <a href="https://www.elheraldo.co/ciencia/la-deteccion-del-tdah-ya-tiene-hoja-de-ruta-en-barranquilla-663662">El Heraldo</a>, Septiembre 8, 2019.</li>
@@ -433,7 +445,7 @@ Copyright ® 2020, webpage made with <a href="https://rmarkdown.rstudio.com/">Rm
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

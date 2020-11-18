@@ -3,6 +3,17 @@ title: "Teaching"
 ---
 <br>
 
+### Applied Data Science (starting 2021-10!)
+This a *new* elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs.
+
+We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modeling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
+
+The course will be offered for the first during the 2021-10 semester.  Should you are interested, contact me by [email](mailto:jvelezv@uninorte.edu.co).
+
+
+<br>
+
+
 ### Data Analysis in Engineering II
 This is a course offered to 6th semester students of the [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) program. We introduce basic and intermediate concepts in
 
@@ -16,6 +27,7 @@ This has been offered during the 2016-10, 2016-30, 2017-10, 2017-30, 2018-10,  2
 <br>
 
 ### Design of Experiments 
+
 This course is offered once a year to [MSc](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) students in Industrial Engineering, and [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students in Biomedical Sciences. We explore the fundamentals of 
 
 1. One- and two-fixed factors experimental designs
@@ -74,15 +86,6 @@ This a *new* elective course is part of the [MSc in Applied Statistics program](
 
 We discuss elements of Exploratory Data Analysis, Predictive Modelling and Classification Methods, and their implementation and automation in  [R](https://www.r-project.org/), as well as the automatic reporting via `markdown` and Rstudio + $\LaTeX$ + `knitr`. 
 
-
-<br>
-
-### Applied Data Science (coming soon!)
-This a *new* elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs.
-
-We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modelling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
-
-The course will be offered for the first during the 2021-10 semester.  Should you are interested, contact me by [email](mailto:jvelezv@uninorte.edu.co).
 
 <center>
 <br><br><br>
