@@ -6,6 +6,6 @@
 <img src="images/mecartoon.jpg" width="280" height="320">
 <br><br><br>
 <hr>
-Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>

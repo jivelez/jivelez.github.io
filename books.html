@@ -25,6 +25,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -69,6 +78,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -275,42 +285,42 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="about.html">
-    <span class="fa fa-male"></span>
+    <span class="fas fa-male"></span>
      
     About
   </a>
 </li>
 <li>
   <a href="teaching.html">
-    <span class="fa fa-university"></span>
+    <span class="fas fa-university"></span>
      
     Teaching
   </a>
 </li>
 <li>
   <a href="research.html">
-    <span class="fa fa-flask"></span>
+    <span class="fas fa-flask"></span>
      
     Research
   </a>
 </li>
 <li>
   <a href="books.html">
-    <span class="fa fa-book"></span>
+    <span class="fas fa-book"></span>
      
     Books
   </a>
 </li>
 <li>
   <a href="students.html">
-    <span class="fa fa-user-graduate"></span>
+    <span class="fas fa-user-graduate"></span>
      
     Students
   </a>
@@ -319,13 +329,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="https://www.uninorte.edu.co/web/ingenieria-industrial/nuestros-docentes?p_p_id=InformacionDocenteUninorte2_WAR_InformacionDocenteV3&amp;docenteID=71365457">
-    <span class="fa fa-university"></span>
+    <span class="fas fa-university"></span>
      
   </a>
 </li>
 <li>
   <a href="https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639">
-    <span class="fa fa-file-o"></span>
+    <span class="fas fa-file-o"></span>
      
   </a>
 </li>
@@ -349,7 +359,7 @@ $(document).ready(function () {
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2020, webpage made with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>.
+Copyright ® 2021, webpage made with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>.
 <hr>
 </center>
 </div>
@@ -363,7 +373,7 @@ Copyright ® 2020, webpage made with <a href="https://rmarkdown.rstudio.com/">Rm
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

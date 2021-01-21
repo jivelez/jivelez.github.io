@@ -82,7 +82,7 @@ We discuss
 
 
 ### Advanced Statistics 
-This a *new* elective course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte.  
+This an elective course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte.  
 
 We discuss elements of Exploratory Data Analysis, Predictive Modelling and Classification Methods, and their implementation and automation in  [R](https://www.r-project.org/), as well as the automatic reporting via `markdown` and Rstudio + $\LaTeX$ + `knitr`. 
 
@@ -90,6 +90,6 @@ We discuss elements of Exploratory Data Analysis, Predictive Modelling and Class
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>

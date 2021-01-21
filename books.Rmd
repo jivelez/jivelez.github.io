@@ -8,6 +8,6 @@ discussed in the course [Data Analysis in Engineering II](https://jivelez.github
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2020, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>
