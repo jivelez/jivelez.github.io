@@ -3,13 +3,10 @@ title: "Teaching"
 ---
 <br>
 
-### Applied Data Science (starting 2021-10!)
-This a *new* elective course at Universidad del Norte. It will be offered to BSc students mainly from the Engineering, Psychology, Mathematics and Economy undergraduate programs.
+### Applied Data Science
+This a *new* elective course offered to BSc students from the Engineering, Psychology, Mathematics and Economy undergraduate programs at Universidad del Norte. 
 
-We will discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modeling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
-
-The course will be offered for the first during the 2021-10 semester.  Should you are interested, contact me by [email](mailto:jvelezv@uninorte.edu.co).
-
+We discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modeling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
 
 <br>
 
@@ -22,13 +19,13 @@ This is a course offered to 6th semester students of the [Industrial Engineering
 3. Time Series Analysis, including stationary and nonstationary time series, and forecasting methods such as decomposition, smoothing and ARIMA$(p,d,q)$ models
 4. Introduction to nonparametric statistics, which includes the sign tests, signed-rank, Wilcoxon-Mann-Whitney and Kruskal-Wallis tests
 
-This has been offered during the 2016-10, 2016-30, 2017-10, 2017-30, 2018-10,  2018-30, 2019-10, 2019-30, 2020-10 and 2020-30 semesters.
+This has been offered every semester since 2016-10.
 
 <br>
 
 ### Design of Experiments 
 
-This course is offered once a year to [MSc](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) students in Industrial Engineering, and [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students in Biomedical Sciences. We explore the fundamentals of 
+This course is offered once a year to [MSc](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) students in Industrial Engineering, and [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students in Biomedical Sciences. We explore the fundamentals of 
 
 1. One- and two-fixed factors experimental designs
 2. Blocking
@@ -36,13 +33,13 @@ This course is offered once a year to [MSc](https://www.uninorte.edu.co/web/maes
 4. $2^k$ and $3^k$ designs
 5. Response surface methodology
 
-This course has been offered during the 2017-30, 2018-30, 2019-30 and 2020-30  semesters.
+This course has been offered during the 2017-30, 2018-30, 2019-30 and 2020-30 semesters.
 
 <br>
 
 
 ### Introduction to Bioinformatics
-This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program. It is offered once a year and covers the following topics:
+This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program. It is offered once a year and covers the following topics:
 
 1. Genome organization
 2. Generation of *omics* data
@@ -56,7 +53,7 @@ This course has been offered during the 2017-30, 2018-30 and 2020-10 semesters.
 <br>
 
 ### Population Genetics
-This course is offered once a year to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. We discuss
+This course is offered once a year to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. We discuss
 
 1. General concepts of genetics, including allele frequencies at the population level, the Hardy-Weinberg principle and its implications
 2. Principles of Genetic Epidemiology, including inheritance models, pleiotropy, variable expressivity and modifier genes
@@ -67,7 +64,7 @@ This course has been offered during the 2017-10, 2018-10, 2019-10 and 2020-10  s
 <br>
 
 ### Biostatistics for Biomedical Sciences
-This course, offered during the 2019-30 semester, is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas) and [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
+This course, first offered during the 2019-30 semester, is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
 
 We discuss 
 
@@ -82,9 +79,9 @@ We discuss
 
 
 ### Advanced Statistics 
-This an elective course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte.  
+This course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte. First offered under my supervision during the 2020-10 semester, is taught every year.
 
-We discuss elements of Exploratory Data Analysis, Predictive Modelling and Classification Methods, and their implementation and automation in  [R](https://www.r-project.org/), as well as the automatic reporting via `markdown` and Rstudio + $\LaTeX$ + `knitr`. 
+We discuss elements of Exploratory Data Analysis, Predictive Modeling and Clustering, as well as their implementation and automation in  [R](https://www.r-project.org/), as well as the automatic reporting via `markdown` and Rstudio + $\LaTeX$ + `knitr`.  
 
 
 <center>

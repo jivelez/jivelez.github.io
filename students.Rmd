@@ -3,20 +3,20 @@ title: "Students"
 ---
 
 #### PhD students
-* [Martha L. Cervantes](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000743534). PhD student in Biomedical Sciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133))
-*  [José Luis López-Prado](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001486987). PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
-*  [Carlos M. Ferreira](https://co.linkedin.com/in/carlos-martin-ferreira-vanegas-409003140). PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
-*  Lilybeth Martinez Olivares. PhD student in Biomedical Sciences (with [Oscar Vidal Orjuela](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000028550))
+1. [Martha L. Cervantes](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000743534). PhD student in Biomedical Sciences (with [Pedro Puentes Rozo](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000147133))
+2.  [José Luis López-Prado](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001486987). PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
+3.  [Carlos M. Ferreira](https://co.linkedin.com/in/carlos-martin-ferreira-vanegas-409003140). PhD student in Industrial Engineering (with [Guisselle García Llinás](https://scienti.colciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000738387))
+4.  Lilybeth Martinez Olivares. PhD student in Biomedical Sciences (with [Oscar Vidal Orjuela](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000028550))
 <br> 
 
 #### MSc students
-*  [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc student in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia)
-*  [Daniela Cassandro De La Hoz](https://co.linkedin.com/in/daniela-cassandro-de-la-hoz-490b82b1). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ))
-*  [Leonella Torreglosa Portillo](https://co.linkedin.com/in/leonella-torreglosa-aa7b44193). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ))
+1.  [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc student in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia)
+2.  [Daniela Cassandro De La Hoz](https://co.linkedin.com/in/daniela-cassandro-de-la-hoz-490b82b1). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ))
+3.  [Leonella Torreglosa Portillo](https://co.linkedin.com/in/leonella-torreglosa-aa7b44193). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ))
 
 
 #### Past students
-*  [Carmen Quintero Arteaga](https://www.linkedin.com/in/carmen-cecilia-quintero-arteaga-8a9972146/). MSc in Industrial Engineering (with [Rita Peña-baena Niebles](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000060496))
+1.  [Carmen Quintero Arteaga](https://www.linkedin.com/in/carmen-cecilia-quintero-arteaga-8a9972146/). MSc in Industrial Engineering (with [Rita Peña-baena Niebles](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000060496))
 
 <center>
 <br><br><br>
