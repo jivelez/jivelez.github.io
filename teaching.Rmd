@@ -8,7 +8,7 @@ This a *new* elective course offered to BSc students from the Engineering, Psych
 
 We discuss elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modeling and Data Visualization. Of course, most of the work will be performed in [R](https://www.r-project.org/).
 
-For more information, take a look at [Carlos Álvarez](https://github.com/calvarezr7/Curso_AppliedDataAnalytics)'s notes on the course.
+For more information, take a look at [Camilo Álvarez](https://github.com/calvarezr7/Curso_AppliedDataAnalytics)'s notes on the course.
 
 <br>
 
