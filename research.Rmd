@@ -24,7 +24,7 @@ You can access some of my publications in [Google Scholar](https://scholar.googl
 
 *  Identified that a common genetic network involving the *LPHN3* gene and the [*NCAM1-DRD2-TTC12*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351604/) gene cluster underlies substance use disorders and disruptive or externalizing disorders.
 
-*  Developement of the statistical, computational and analytical framework for the functional analysis of genetic variants in the [*SIX3*](http://hmg.oxfordjournals.org/content/17/24/3919.long)  gene using zebrafish, and the genetic analysis of mutations in the [*NODAL*](http://www.sciencedirect.com/science/article/pii/S1096719209001383) signalling pathway.
+*  Development of the statistical, computational and analytical framework for the functional analysis of genetic variants in the [*SIX3*](http://hmg.oxfordjournals.org/content/17/24/3919.long)  gene using zebrafish, and the genetic analysis of mutations in the [*NODAL*](http://www.sciencedirect.com/science/article/pii/S1096719209001383) signalling pathway.
 
 *  Development and implementation of a [statistical strategy](http://www.nature.com/mp/journal/v18/n5/full/mp201281a.html) that allowed the identification of genes modifying the age of onset in patients with Alzheimer's disease.  
 
