@@ -1,2 +1,2 @@
 # jivelez.github.io
-This is my githup repository for creating and hosting my personal website 
+This is my Github repository for creating and hosting my personal website 
