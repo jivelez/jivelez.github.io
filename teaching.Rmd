@@ -21,7 +21,7 @@ This is a course offered to 6th semester students of the [Industrial Engineering
 3. Time Series Analysis, including stationary and nonstationary time series, and forecasting methods such as decomposition, smoothing and ARIMA$(p,d,q)$ models
 4. Introduction to nonparametric statistics, which includes the sign tests, signed-rank, Wilcoxon-Mann-Whitney and Kruskal-Wallis tests
 
-This has been offered every semester since 2016-10.
+I taught this course every semester since 2016-10 until 2020-30.
 
 <br>
 
@@ -81,7 +81,7 @@ We discuss
 
 
 ### Advanced Statistics 
-This course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte. First offered under my supervision during the 2020-10 semester, is taught every year.
+This course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte. First offered under my supervision during the 2020-10 semester, is offered every year.
 
 We discuss elements of Exploratory Data Analysis, Predictive Modeling and Clustering, as well as their implementation and automation in  [R](https://www.r-project.org/), as well as the automatic reporting via `markdown` and Rstudio + $\LaTeX$ + `knitr`.  
 
