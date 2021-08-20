@@ -3,7 +3,7 @@
 <center>
 
 <center>
-<img src="images/mecartoontransparent.png" width="280" height="320">
+<img src="images/mecartoontransparent.png" width="280" height="300">
 <br><br><br>
 <hr>
 Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
