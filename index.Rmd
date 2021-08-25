@@ -3,7 +3,11 @@
 <center>
 
 <center>
+<<<<<<< HEAD
+<img src="images/mecartoontransparent.png" width="280" height="320">
+=======
 <img src="images/mecartoontransparent.png" width="280" height="300">
+>>>>>>> 7c1ca4b0c2f8b6f888e9b26fbdf2ebfae9af1a92
 <br><br><br>
 <hr>
 Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
