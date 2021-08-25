@@ -15,9 +15,9 @@ navbar:
     - text: "Research"
       icon: fa-flask
       href: research.html
-    - text: "Books"
-      icon: fa-book
-      href: books.html
+    # - text: "Books"
+    #   icon: fa-book
+    #   href: books.html
     - text: "Students"
       icon: fa-user-graduate
       href: students.html
