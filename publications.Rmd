@@ -4,7 +4,7 @@ title: "Publications"
 
 <br>
 
-I have authored or have been a co-author of more than 70 peer reviewed manuscripts. 
+<!-- I have authored or have been a co-author of more than 70 peer reviewed manuscripts.  -->
 
 You can access some of my publications below, or directly on [Google Scholar](https://scholar.google.com.co/citations?user=GFxNB78AAAAJ&hl=en),  [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Velez+JI), [Research Gate](https://www.researchgate.net/profile/Jorge_Velez13),  [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=24336983600) and [ORCID](https://orcid.org/0000-0002-3146-7899).
 
@@ -47,6 +47,8 @@ You can access some of my publications below, or directly on [Google Scholar](ht
 5.	Oscar M. Vidal, Jorge Acosta-Reyes, Jesús Padilla, Edgar Navarro-Lechuga, Elsa Bravo, Diego Viasus, Mauricio Arcos-Burgos, **Jorge I. Vélez**. Chikungunya outbreak (2015) in the Colombian Caribbean: Latent classes and gender differences in virus infection. [PLoS Neglected Tropical Diseases](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008281), 2020.  
 
 6.	Isabel Suarez, Carlos De Los Reyes Aragón, Elisa Díaz, Tania Iglesias, Ernesto Barceló, **Jorge I. Vélez**, Laurence Casini. How is Temporal Processing Affected in Children with Attention-deficit/Hyperactivity Disorder?. [Developmental Neuropsychology](https://www.tandfonline.com/doi/abs/10.1080/87565641.2020.1764566?journalCode=hdvn20) 2020, pp. 1-16. 
+
+7. Landires, I.; Núñez-Samudio, V.; Fernandez, J.; Sarria, C.; Villareal, V.; Córdoba, F.; Apráez-Ippolito, G.; Martínez, S.; Vidal, O.M.; **Vélez, J.I.**; Arcos-Holzinger, M.; Landires, S.; Arcos-Burgos, M. Calpainopathy: Description of a Novel Mutation and Clinical Presentation with Early Severe Contractures. [Genes](https://www.mdpi.com/2073-4425/11/2/129), 2020, 11, 129.
 
 #### 2019
 
