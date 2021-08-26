@@ -12,9 +12,9 @@ navbar:
     - text: "Teaching"
       icon: fa-university
       href: teaching.html
-    - text: "Research"
-      icon: fa-flask
-      href: research.html
+    # - text: "Research"
+    #   icon: fa-flask
+    #   href: research.html
     # - text: "Books"
     #   icon: fa-book
     #   href: books.html
