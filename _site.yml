@@ -21,13 +21,19 @@ navbar:
     - text: "Students"
       icon: fa-user-graduate
       href: students.html
-  right:
-  - icon: fa-university
-    href: https://guayacan.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20DE%20INGENIERIA%20INDUSTRIAL&id_docente=DPTO.%20DE%20INGENIERIA%20INDUSTRIAL%2019
-  - icon: fa-file-o
-    href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639
-  - icon: "fab fa-researchgate"
-    href: https://www.researchgate.net/profile/Jorge-Velez
+    - text: "Research"
+      icon: fa-flask
+      href: research.html
+    - text: "Publications"
+      icon: fa-file-alt
+      href: publications.html
+  # right:
+  # - icon: fa-university
+  #   href: https://guayacan.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20DE%20INGENIERIA%20INDUSTRIAL&id_docente=DPTO.%20DE%20INGENIERIA%20INDUSTRIAL%2019
+  # - icon: fa-file-o
+  #   href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639
+  # - icon: "fab fa-researchgate"
+  #   href: https://www.researchgate.net/profile/Jorge-Velez
   
 output:
   html_document:
