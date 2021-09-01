@@ -13,6 +13,15 @@ title: "Research"
 
 <br>
 
+### Projects
+
+1.	Nuevos ARN no codificantes exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer. **Principal coinvestigator** Financed by COLCIENCIAS. 2020-2022. COP$349,977,076. 
+2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175.
+3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
+4. Detección de Variantes de Efecto Mayor en Enfermedades Complejas. **Principal Investigator**. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.
+
+
+<br>
 
 ### Achievements
 * The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene that confer susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD) and [substance use disorder](https://www.nature.com/articles/s41398-019-0396-7), [double the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD, and predict response to stimulant medication and  [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms.
@@ -24,16 +33,6 @@ title: "Research"
 *  Development and implementation of a [statistical strategy](http://www.nature.com/mp/journal/v18/n5/full/mp201281a.html) that allowed the identification of genes modifying the age of onset in patients with Alzheimer's disease.  
 
 * Identification of age of onset modifier genes in [familial](https://www.nature.com/articles/mp2015177) and [sporadic](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.b.32493) Alzheimer's disease.
-
-
-<br>
-
-### Current Projects
-
-1.	Detección de Variantes de Efecto Mayor en Enfermedades Complejas. **Principal Investigator**. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.
-2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175.
-3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
-4.	Nuevos ARN no codificantes exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer. **Principal coinvestigator** Financed by COLCIENCIAS. 2020-2022. COP$349,977,076. 
 
 <br>
 
