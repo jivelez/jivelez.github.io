@@ -2,7 +2,7 @@ name: ""
 output_dir: "."
 navbar:
   title: "Jorge I Vélez"
-  left:
+  right:
     - text: "Home"
       icon: fa-home
       href: index.html
@@ -37,5 +37,5 @@ navbar:
   
 output:
   html_document:
-    theme: readable
+    theme: readable #default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti.
     highlight: textmate

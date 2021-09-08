@@ -13,7 +13,7 @@ title: "Students"
 #### MSc students
 *  [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc student in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia)
 *  [Daniela Cassandro De La Hoz](https://co.linkedin.com/in/daniela-cassandro-de-la-hoz-490b82b1). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co))
-*  [Leonella Torreglosa Portillo](https://co.linkedin.com/in/leonella-torreglosa-aa7b44193). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ))
+<!-- *  [Leonella Torreglosa Portillo](https://co.linkedin.com/in/leonella-torreglosa-aa7b44193). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ)) -->
 *  [Laura Zapata Prada](https://www.linkedin.com/in/laura-zapata-prada?originalSubdomain=co). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://www.linkedin.com/in/carlos-d-paternina-arboleda-81964b85/?originalSubdomain=co))
 
 
