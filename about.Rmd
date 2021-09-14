@@ -2,19 +2,22 @@
 title: "About me"
 ---
 
+<br>
 I am Assistant Professor at the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/departamento-de-ingenieria-industrial) of the [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia. 
 
 I earned a PhD in Medical Sciences (Genomics and Precision Medicine) from the prestigious [John Curtin School of Medical Research](https://jcsmr.anu.edu.au/), [Australian National University](https://www.anu.edu.au) in Canberra, ACT, Australia, under the supervision of [Dr. Mauricio Arcos-Burgos](https://scholar.google.com.co/citations?user=MZlwFqgAAAAJ&hl=en).
 
 My research interest include Bioinformatics, Population Genetics, Genetic Epidemiology, Predictive Genomics and Data Analytics.
 
-You can contact me by [email](mailto:jvelezv@uninorte.edu.co) and get a copy of my CV from [here](https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing).
+You can contact me by [email](mailto:jvelezv@uninorte.edu.co). A copy of my CV from [here](https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing).
 
 
-<br>
+<!-- <br> -->
 
+<!-- <center> -->
+<!-- <img src="images/uninorte.png" alt="uninorte" width="250" height="150"> -->
 <center>
-<img src="images/uninorte.png" alt="uninorte" width="250" height="150">
+<br><br><br>
 <br><br><br>
 <hr>
 Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).

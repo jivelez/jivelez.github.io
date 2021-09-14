@@ -2,6 +2,8 @@
 title: "Research"
 ---
 
+<br>
+
 ### Interests
 * Bioinformatics
 * Predictive Genomics
@@ -11,6 +13,15 @@ title: "Research"
 
 <br>
 
+### Projects
+
+1.	Nuevos ARN no codificantes exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer. **Principal coinvestigator** Financed by COLCIENCIAS. 2020-2022. COP$349,977,076. 
+2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175.
+3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
+4. Detección de Variantes de Efecto Mayor en Enfermedades Complejas. **Principal Investigator**. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.
+
+
+<br>
 
 ### Achievements
 * The identification of variants in the [*LPHN3*](http://www.nature.com/mp/journal/v15/n11/full/mp20106a.html) gene that confer susceptibility to Attention Deficit/Hyperactivity Disorder (ADHD) and [substance use disorder](https://www.nature.com/articles/s41398-019-0396-7), [double the risk](http://www.nature.com/mp/journal/v17/n7/full/mp201159a.html) of developing ADHD, and predict response to stimulant medication and  [severity](http://www.nature.com/tp/journal/v1/n7/full/tp201114a.html) of symptoms.
@@ -23,19 +34,10 @@ title: "Research"
 
 * Identification of age of onset modifier genes in [familial](https://www.nature.com/articles/mp2015177) and [sporadic](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.b.32493) Alzheimer's disease.
 
-
-<br>
-
-### Current Projects
-
-1.	Detección de Variantes de Efecto Mayor en Enfermedades Complejas. **Principal Investigator**. Financed by Universidad del Norte. 2017-2018. COP$20,000,000.
-2.	Variantes genéticas y mutaciones genómicas identificadas por secuenciación de última generación (NGS) en familias Colombianas: en busca de marcadores comunes de tautología autoinmune. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$299,004,175.
-3.	Identificación de marcadores tempranos de tipo neurológico, neurofisiolófico, neurocognitivo y neuropsiquiátrico en población presintomática con riesgo de enfermedad de Huntington en el Departamento del Atlántico. **Coinvestigator**. Financed by COLCIENCIAS. 2018-2020. COP$399,995,241.
-4.	Nuevos ARN no codificantes exosomales y su papel en la patogénesis de la Enfermedad de Alzheimer. **Principal coinvestigator** Financed by COLCIENCIAS. 2020-2022. COP$349,977,076. 
-
 <br>
 
 ### University Honors & Awards 
+
 * **Medalla Orden al Mérito Científico** [Scientific Merit Medal], Universidad del Norte, Barranquilla, Colombia. November 23, 2020. This recognition is given to the professor who has done important work in the field of research and science with national and international recognition, and published his/her scientific activities.
 *	**Outstanding Research Award**, Division of Engineering, Universidad del Norte, Barranquilla, Colombia. January 15, 2019. This award recognizes the outstanding publishing record of up to five Professors/Researchers of the Division of Engineering during the previous academic year. 
 *	**Visitor Researcher**, Genomics and Predictive Medicine Group, John Curtin School of Medical Research, The Australian National University, Canberra, ACT, Australia. April 11, 2016-date. 
@@ -53,6 +55,9 @@ title: "Research"
 
 
 ### Press Releases
+
+* Uninorte ProCaM investiga el genoma para entender el riesgo al cáncer de mamá en el Atlántico, Entrevista en [Uninorte FM Estéreo](https://soundcloud.com/uninortefm/uninorte-procam-investiga-el-genoma-para-entender-el-riesgo-al-cancer-de-mama-en-el-atlantico), Septiembre 9, 2021.
+* Nos vinculamos a consorcio internacional que estudia el cáncer de seno en Latinoamérica, [Universidad del Norte Intellecta](https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=16990689&groupId=73923), Septiembre 7, 2021.
 * La edad de inicio del Alzheimer: un enigma que abre puertas a la genética, [Revista Intellecta](https://www.uninorte.edu.co/web/intellecta/la-edad-de-inicio-del-alzheimer-un-enigma-que-abre-puertas-a-la-genetica), Edición #5, Octubre 2020.
 * Identifican siete subgrupos de pacientes con Chikunguña en Barranquilla, [Universidad del Norte Intellecta](https://www.uninorte.edu.co/web/grupo-prensa/noticia?articleId=15532955&groupId=73923), Junio 19, 2020.
 * Una mirada a la Medicina del Futuro, [Revista Intellecta](https://www.uninorte.edu.co/web/intellecta/una-mirada-a-la-medicina-del-futuro), Edición #4, 2019.

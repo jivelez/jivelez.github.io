@@ -2,7 +2,7 @@ name: ""
 output_dir: "."
 navbar:
   title: "Jorge I Vélez"
-  left:
+  right:
     - text: "Home"
       icon: fa-home
       href: index.html
@@ -12,6 +12,9 @@ navbar:
     - text: "Teaching"
       icon: fa-university
       href: teaching.html
+    # - text: "Research"
+    #   icon: fa-flask
+    #   href: research.html
     # - text: "Books"
     #   icon: fa-book
     #   href: books.html
@@ -24,6 +27,9 @@ navbar:
     - text: "Publications"
       icon: fa-file-alt
       href: publications.html
+    - text: "Books"
+      icon: fa-book
+      href: books.html      
   # right:
   # - icon: fa-university
   #   href: https://guayacan.uninorte.edu.co/4PL1CACI0N35/HV2/profile.php?id=DPTO.%20DE%20INGENIERIA%20INDUSTRIAL&id_docente=DPTO.%20DE%20INGENIERIA%20INDUSTRIAL%2019
@@ -34,5 +40,5 @@ navbar:
   
 output:
   html_document:
-    theme: readable
+    theme: readable #default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti.
     highlight: textmate
