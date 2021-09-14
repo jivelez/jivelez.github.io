@@ -4,7 +4,7 @@ I am currently preparing the textbook _Modelos de Regresión: Una aproximación 
 
 This book is designed to cover most of the topics discussed in the course [Data Analysis in Engineering II](https://jivelez.github.io/teaching.html). A preliminary version of this book is available from [here](https://jivelez.github.io/book-adii/). 
 
-Comments, suggestions and recommendations are always welcome. 
+Comments, suggestions and recommendations are more than welcome. 
 
 
 <center>
