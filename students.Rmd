@@ -1,6 +1,7 @@
 ---
 title: "Students"
 ---
+<hr>
 <br>
 
 #### PhD students

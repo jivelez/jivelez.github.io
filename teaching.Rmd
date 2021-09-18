@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 ---
+<hr>
 <br>
 
 ### Applied Data Science

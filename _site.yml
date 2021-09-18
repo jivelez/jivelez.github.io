@@ -37,8 +37,9 @@ navbar:
   #   href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001349639
   # - icon: "fab fa-researchgate"
   #   href: https://www.researchgate.net/profile/Jorge-Velez
-  
 output:
   html_document:
-    theme: readable #default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti.
+    theme: flatly #default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti.
     highlight: textmate
+     
+     

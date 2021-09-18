@@ -1,10 +1,28 @@
+---
+title: "Books"
+---
+<hr>
 <br>
 
-I am currently preparing the textbook _Modelos de Regresión: Una aproximación práctica con R_. 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 
-This book is designed to cover most of the topics discussed in the course [Data Analysis in Engineering II](https://jivelez.github.io/teaching.html). A preliminary version of this book is available from [here](https://jivelez.github.io/book-adii/). 
+I am currently preparing the textbook [_Modelos de Regresión: Una aproximación práctica con R_](https://jivelez.github.io/book-adii/), which covers most of the topics discussed in the course [Data Analysis in Engineering II](https://jivelez.github.io/teaching.html).  Comments, suggestions and recommendations are more than welcome. 
 
-Comments, suggestions and recommendations are more than welcome. 
+
+
+:::
+::: {.column width="50%"}
+
+```{r book, echo=FALSE, out.width="60%", fig.align='center'}
+knitr::include_graphics("images/bookcover.png")
+```
+
+:::
+::::::::::::::
+
+
+
 
 
 <center>

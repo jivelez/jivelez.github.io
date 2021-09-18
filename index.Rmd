@@ -1,6 +1,5 @@
 <center>
-## Welcome to my website!
-<center>
+## Welcome to my website!{-}
 
 <center>
 <img src="images/mecartoontransparent.png" width="280" height="320">

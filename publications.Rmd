@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 ---
-
+<hr>
 <br>
 
 <!-- I have authored or have been a co-author of more than 70 peer reviewed manuscripts.  -->
