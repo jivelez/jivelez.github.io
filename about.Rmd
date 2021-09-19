@@ -1,7 +1,7 @@
 ---
 title: "About me"
 ---
-
+<hr>
 <br>
 I am Assistant Professor at the [Department of Industrial Engineering](https://www.uninorte.edu.co/web/departamento-de-ingenieria-industrial) of the [Universidad del Norte](https://www.uninorte.edu.co/) in Barranquilla, Colombia. 
 
