@@ -20,7 +20,7 @@ You can access some of my publications below, or directly from [Google Scholar](
 
 2.	Martinez-Banfi, M., **Vélez, J.I.**, Mebarak Chams, M.R., Arcos-Holzinger, M., Acosta-López, J.E., García, R., Perea, M.V., Arcos-Burgos, M., Ladera, V. Utility of a Short Neuropsychological Protocol for Detecting HIV-Associated Neurocognitive Disorders in Patients with Asymptomatic HIV-1 Infection. [Brain Sciences](https://www.mdpi.com/2076-3425/11/8/1037),  11(8), 1037, 2021.
 
-3. Machado-Domínguez, L.F., Paternina-Arboleda, C.D., **Vélez, J.I.**, Barrios-Armiento, A. A memetic algorithm to address the multi-node resource-constrained project scheduling problem. [J Sched](https://link.springer.com/article/10.1007/s10951-021-00696-5) 24, 413–429, 2021.
+3. Machado-Domínguez, L.F., Paternina-Arboleda, C.D., **Vélez, J.I.**, Barrios-Sarmiento, A. A memetic algorithm to address the multi-node resource-constrained project scheduling problem. [J Sched](https://link.springer.com/article/10.1007/s10951-021-00696-5) 24, 413–429, 2021.
 
 4.	Sebastian Racedo, Ivan Portnoy, **Jorge I. Vélez**, Homero San-Juan-Vergara, Marco Sanjuan, Eduardo Zurek. A new pipeline for structural characterization and classification of RNA-Seq microbiome data, [BioData Mining](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-021-00266-7), 14 (31), 2021.  
 
