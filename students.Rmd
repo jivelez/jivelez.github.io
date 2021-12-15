@@ -17,7 +17,7 @@ title: "Students"
 <!-- *  [Leonella Torreglosa Portillo](https://co.linkedin.com/in/leonella-torreglosa-aa7b44193). MSc student in Industrial Engineering (with [Carlos Paternina-Arboleda](https://scholar.google.com.co/citations?hl=en&user=gqEqfLUAAAAJ)) -->
 
 #### Past students
-*  [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia). Thesis: _Desarrollo de un Modelo de Genómica Predictiva basado en Machine Learning para la Estimación de la Edad de Inicio de la Enfermedad de Alzheimer: Implicaciones para el Caribe Colombiano_.  September 2021. 
+*  [Luiggi Samper Orozco](https://co.linkedin.com/in/luiggisamper). MSc in [Epidemiology](https://www.uninorte.edu.co/web/maestria-en-epidemiologia). Thesis: _Desarrollo de un Modelo de Genómica Predictiva basado en Machine Learning para la Estimación de la Edad de Inicio de la Enfermedad de Alzheimer: Implicaciones para el Caribe Colombiano_.  September 2021. **Magna Cum Laude** distinction.
 *  Elkin Rafael Torres Rivera, MSc in [Applied Statistics](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada). Thesis: _Variabilidad Cognitiva en Pacientes con Esquizofrenia_. June 2021. 
 *  [Carmen Quintero Arteaga](https://www.linkedin.com/in/carmen-cecilia-quintero-arteaga-8a9972146/), MSc in [Industrial Engineering](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial) (with [Rita Peña-baena Niebles](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000060496)). Thesis: _Diseño Estadístico de una Carta de Contol $\bar{x}$ Sintética Totalmente Adaptativa para Procesos Autocorrelacionados_. March 2021.
 
