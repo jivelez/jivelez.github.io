@@ -30,6 +30,6 @@ knitr::include_graphics("images/bookcover.png")
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2022, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>

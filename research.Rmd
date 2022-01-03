@@ -83,6 +83,6 @@ En búsqueda del tesoro: La información basada en los datos. Entrevista en [Uni
 <center>
 <br><br><br>
 <hr>
-Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2022, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>

@@ -5,6 +5,6 @@
 <img src="images/mecartoontransparent.png" width="280" height="320">
 <br><br><br>
 <hr>
-Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2022, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>

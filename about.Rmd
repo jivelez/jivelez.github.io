@@ -20,7 +20,7 @@ You can contact me by [email](mailto:jvelezv@uninorte.edu.co). A copy of my CV i
 <br><br><br>
 <br><br><br>
 <hr>
-Copyright ® 2021, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+Copyright ® 2022, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
 <hr>
 </center>
 
