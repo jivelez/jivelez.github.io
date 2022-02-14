@@ -16,7 +16,7 @@ You can access some of my publications below, or directly from [Google Scholar](
 
 1. Aguillon, D.; Vásquez, D.;  Madrigal, L.; Moreno, S.; Hernández, D.; Isaza-Ruget, M.; López, J. J.;  Landires, I.;  Nuñez-Samudio, V.; Restrepo, C. M.; Vidal, O. M.; **Vélez, J. I.**; Arcos-Holzinger, M.; Lopera, F.; Arcos-Burgos, M. (to appear). Ataxia with Ocular Apraxia type 1 (AOA1) (APTX; W279* mutation): Neurological, Neuropsychological, and Molecular Outlining of a Heterogenous Phenotype in Four Colombian Siblings. _Molecular Neurobiology_.
 
-1. Quintero-Arteaga, C.; Peñabaena-Niebles, P.; **Vélez, J. I.**; Jubiz-Diaz, M. (to appear). Statistical design of an adaptive synthetic $\bar{X}$ control chart for autocorrelated processes. _Quality and Reliability Engineering International_.
+1. Quintero-Arteaga, C.; Peñabaena-Niebles, P.; **Vélez, J. I.**; Jubiz-Diaz, M. (2022). Statistical design of an adaptive synthetic $\bar{X}$ control chart for autocorrelated processes. [_Quality and Reliability Engineering International_](http://doi.org/10.1002/qre.3086), .
 
 1. Valencia-Echeverry, J.; Cuartas-Arias, J. M.; **Vélez; J. I.**, Arcos-Burgos, M.; López-Jaramillo, C.; Palacio-Ortiz, J. D. (2022). Executive Function Deficit in Bipolar offspring: A Neurocognitive Endophenotype?. [Journal of Affective disorders](https://www.sciencedirect.com/science/article/abs/pii/S0165032721011216?via%3Dihub), S0165-0327(21)01121-6. 
 
