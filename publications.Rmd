@@ -14,13 +14,13 @@ You can access some of my publications below, or directly from [Google Scholar](
 
 #### 2022
 
-1. López-Prado, J. L; González-Sánchez, J. W.;  **Vélez, J. I.**, Garcia-Llinás, G. A. (to appear). Reliability Assessment in Rural Distribution Systems with Microgrids: A Computational-based Approach. _IEEE Access_.
+1. López-Prado, J. L; González-Sánchez, J. W.;  **Vélez, J. I.**, Garcia-Llinás, G. A. (2022). Reliability Assessment in Rural Distribution Systems with Microgrids: A Computational-based Approach. [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9755132/).
 
-1. Aguillon, D.; Vásquez, D.;  Madrigal, L.; Moreno, S.; Hernández, D.; Isaza-Ruget, M.; López, J. J.;  Landires, I.;  Nuñez-Samudio, V.; Restrepo, C. M.; Vidal, O. M.; **Vélez, J. I.**; Arcos-Holzinger, M.; Lopera, F.; Arcos-Burgos, M. (to appear). Ataxia with Ocular Apraxia type 1 (AOA1) (APTX; W279* mutation): Neurological, Neuropsychological, and Molecular Outlining of a Heterogenous Phenotype in Four Colombian Siblings. [_Molecular Neurobiology_](https://link.springer.com/article/10.1007/s12035-022-02821-7).
+1. Aguillon, D.; Vásquez, D.;  Madrigal, L.; Moreno, S.; Hernández, D.; Isaza-Ruget, M.; López, J. J.;  Landires, I.;  Nuñez-Samudio, V.; Restrepo, C. M.; Vidal, O. M.; **Vélez, J. I.**; Arcos-Holzinger, M.; Lopera, F.; Arcos-Burgos, M. (2022). Ataxia with Ocular Apraxia type 1 (AOA1) (APTX; W279* mutation): Neurological, Neuropsychological, and Molecular Outlining of a Heterogenous Phenotype in Four Colombian Siblings. [Molecular Neurobiology](https://link.springer.com/article/10.1007/s12035-022-02821-7).
 
 1. Quintero-Arteaga, C.; Peñabaena-Niebles, P.; **Vélez, J. I.**; Jubiz-Diaz, M. (2022). Statistical design of an adaptive synthetic $\bar{X}$ control chart for autocorrelated processes. [Quality and Reliability Engineering International](http://doi.org/10.1002/qre.3086).
 
-1. Valencia-Echeverry, J.; Cuartas-Arias, J. M.; **Vélez; J. I.**, Arcos-Burgos, M.; López-Jaramillo, C.; Palacio-Ortiz, J. D. (2022). Executive Function Deficit in Bipolar offspring: A Neurocognitive Endophenotype?. [Journal of Affective disorders](https://www.sciencedirect.com/science/article/abs/pii/S0165032721011216?via%3Dihub), S0165-0327(21)01121-6. 
+1. Valencia-Echeverry, J.; Cuartas-Arias, J. M.; **Vélez; J. I.**, Arcos-Burgos, M.; López-Jaramillo, C.; Palacio-Ortiz, J. D. (2022). Executive Function Deficit in Bipolar offspring: A Neurocognitive Endophenotype? (2022). [Journal of Affective disorders](https://www.sciencedirect.com/science/article/abs/pii/S0165032721011216?via%3Dihub), S0165-0327(21)01121-6. 
 
 #### 2021
 
