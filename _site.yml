@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Home"
       icon: fa-home
-      href: index.html
+      href: home.html
     - text: "About"
       icon: fa-male
       href: about.html
