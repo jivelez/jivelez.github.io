@@ -1,0 +1,10 @@
+<center>
+## Welcome to my website!{-}
+
+<center>
+<img src="images/mecartoontransparent.png" width="280" height="320">
+<br><br><br>
+<hr>
+Copyright ® 2022, webpage made with [Rmarkdown](https://rmarkdown.rstudio.com/).
+<hr>
+</center>
