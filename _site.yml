@@ -15,18 +15,18 @@ navbar:
     - text: "Books"
       icon: fa-book
       href: books.html
-    - text: "Students"
-      icon: fa-user-graduate
-      href: students.html
-    - text: "Research"
-      icon: fa-flask
-      href: research.html
-  #  - text: "Teaching"
-  #    icon: fa-university
-  #    href: teaching.html
     - text: "Publications"
       icon: fa-file-alt
       href: publications.html
+    - text: "Research"
+      icon: fa-flask
+      href: research.html
+    - text: "Students"
+      icon: fa-user-graduate
+      href: students.html
+    - text: "Teaching"
+      icon: fa-university
+      href: teaching.html
   #  - text: "Books"
   #    icon: fa-book
   #    href: books.html       

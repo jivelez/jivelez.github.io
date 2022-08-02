@@ -4,29 +4,39 @@ title: "Teaching"
 <hr>
 <br>
 
-### Applied Data Science
+### Undergraduate courses
+
+<br>
+
+#### Applied Data Science
+
 This a *new* elective course offered to BSc students from the Engineering, Psychology, Mathematics and Economy undergraduate programs at Universidad del Norte. 
 
 Elements of Data Analytics, Computational Statistics, Dimensionality Reduction Techniques, Predictive Modeling and Data Visualization are covered. Of course, most of the work will be performed in [R](https://www.r-project.org/).
 
-For more information, take a look at [Camilo Álvarez](https://github.com/calvarezr7/Curso_AppliedDataAnalytics)'s notes on the course.
+For more information, take a look at [Camilo Álvarez](https://github.com/calvarezr7/Curso_AppliedDataAnalytics)'s notes on the course. Thanks Camilo!
 
 <br>
 
+####  Data Analysis in Engineering II
 
-### Data Analysis in Engineering II
 This is a course offered to 6th semester students of the [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial) program. We introduce basic and intermediate concepts in
 
 1. Simple and Multiple Linear Regression
-2. Advanced Linear Regression Models, which include Nonlinear, Logistic and Poisson Regressions
-3. Time Series Analysis, including stationary and nonstationary time series, and forecasting methods such as decomposition, smoothing and ARIMA$(p,d,q)$ models
-4. Nonparametric statistics, including the sign and signed-rank tests, as well as the Wilcoxon-Mann-Whitney and Kruskal-Wallis tests
+2.  Advanced Linear Regression Models, which include Nonlinear, Logistic and Poisson Regressions
+3.  Time Series Analysis, including stationary and nonstationary time series, and forecasting methods such as decomposition, smoothing and ARIMA$(p,d,q)$ models
+4.  Nonparametric statistics, including the sign and signed-rank tests, as well as the Wilcoxon-Mann-Whitney and Kruskal-Wallis tests
 
-I taught this course every semester since 2016-10 until 2020-30.
+I have taught this course every semester since 2016-10. You can check the [book](https://jivelez.github.io/book-adii/) I have been working on, which covers this course's topics.
+
+<br>
+<hr>
+
+### Graduate courses
 
 <br>
 
-### Design of Experiments 
+#### Design of Experiments
 
 This course is offered once a year to [MSc](https://www.uninorte.edu.co/web/maestria-en-ingenieria-industrial)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ingenieria-industrial) students in Industrial Engineering, and [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students in Biomedical Sciences. We explore the fundamentals of 
 
@@ -36,37 +46,41 @@ This course is offered once a year to [MSc](https://www.uninorte.edu.co/web/maes
 4. $2^k$ and $3^k$ designs
 5. Response surface methodology
 
-This course has been offered during the 2017-30, 2018-30, 2019-30 and 2020-30 semesters.
+This course has been offered during the 2017-30, 2018-30, 2019-30,  2020-30 and 2022-10 semesters.
 
 <br>
 
 
-### Introduction to Bioinformatics
+#### Introduction to Bioinformatics
+
 This is an introductory course for  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas) students of the Biomedical Sciences program. It is offered once a year and covers the following topics:
 
 1. Genome organization
 2. Generation of *omics* data
-3. Sequencing techniques. 
+3. Sequencing techniques
 4. [vcf](https://www.ebi.ac.uk/training/online/course/human-genetic-variation-i-introduction-2019/variant-identification-and-analysis-0#targetText=VCF%20is%20the%20standard%20file%20format%20for%20storing%20variation%20data.&targetText=VCF%20is%20a%20preferred%20format,are%20tab%20delimited%20text%20files.), [BAM](https://genome.sph.umich.edu/wiki/BAM) and [SAM](https://en.wikipedia.org/wiki/SAM_(file_format)) formats
 5. Genome and protein databases and how to query them
 6. Functional prediction of biological sequences
 
-This course has been offered during the 2017-30, 2018-30 and 2020-10 semesters.
+This course has been offered during the 2017-30, 2018-30, 2020-10, 2021-10 and 2022-10 semesters.
 
 <br>
 
-### Population Genetics
-This course is offered once a year to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. We discuss
+#### Population Genetics
+
+This course is offered once a year to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. We discuss, but are not limited to
 
 1. General concepts of genetics, including allele frequencies at the population level, the Hardy-Weinberg principle and its implications
 2. Principles of Genetic Epidemiology, including inheritance models, pleiotropy, variable expressivity and modifier genes
 3. Segregation, linkage and association analysis, genetic differentiation and genetic diversity in humans
 
-This course has been offered during the 2017-10, 2018-10, 2019-10 and 2020-10  semesters.
+This course has been offered during the 2017-10, 2018-10, 2019-10,  2020-10 and 2021-10  semesters.
 
 <br>
 
-### Biostatistics for Biomedical Sciences
+
+#### Biostatistics for Biomedical Sciences
+
 This course, first offered during the 2019-30 semester, is oriented to  [MSc](https://www.uninorte.edu.co/web/maestria-en-ciencias-basicas-biomedicas)/ [PhD](https://www.uninorte.edu.co/web/doctorado-en-ciencias-biomedicas)  students in Biomedical Sciences. 
 
 We discuss 
@@ -74,17 +88,19 @@ We discuss
 1. Exploratory Data Analysis;
 2. Hypothesis testing;
 3. Analysis of two-way contingency tables;
-3. Simple and multiple linear regression models; and
-4. Logistic Regression.
+4. Simple and multiple linear regression models; and
+5. Logistic Regression.
 
 
 <br>
 
+#### Advanced Statistics
 
-### Advanced Statistics 
-This course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte. First offered under my supervision during the 2020-10 semester, is offered every year. 
+This course is part of the [MSc in Applied Statistics program](https://www.uninorte.edu.co/web/maestria-en-estadistica-aplicada) at Universidad del Norte, and was first offered during the 2020-10 semester. 
 
-We discuss elements of Exploratory Data Analysis, Predictive Modeling and Clustering, as well as their implementation and automation in  [R](https://www.r-project.org/) via [`Rmarkdown`](https://rmarkdown.rstudio.com/).
+We discuss elements of Exploratory Data Analysis, Predictive Modeling, Bootstrap, Unsupervised Machine Learning, as well as their implementation and automation in  [R](https://www.r-project.org/) via [`Rmarkdown`](https://rmarkdown.rstudio.com/).
+
+This course has been taught under my supervision during the 2020-10, 2021-10 and 2022-10 semesters.
 
 
 <center>
