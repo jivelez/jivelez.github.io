@@ -9,8 +9,7 @@ I earned a PhD in Medical Sciences (Genomics and Precision Medicine) from the pr
 
 My research interests include Bioinformatics, Population Genetics, Genetic Epidemiology, Predictive Genomics and Data Analytics.
 
-You can contact me by [email](mailto:jvelezv@uninorte.edu.co). A copy of my CV is available from [here](https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing).
-
+You can contact me by [email](mailto:jvelezv@uninorte.edu.co). A copy of my CV is available from <a href="https://drive.google.com/file/d/1iSVgDTKYPc3Tn2VnqUs9uWFTcYpytVp6/view?usp=sharing" target="_blank"> here </a>.
 
 <br>
 
