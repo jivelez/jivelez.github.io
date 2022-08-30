@@ -12,9 +12,9 @@ navbar:
     # - text: "Research"
     #   icon: fa-flask
     #   href: research.html
-    - text: "Books"
-      icon: fa-book
-      href: books.html
+  #  - text: "Books"
+  #    icon: fa-book
+  #    href: books.html
     - text: "Publications"
       icon: fa-file-alt
       href: publications.html
