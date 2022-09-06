@@ -233,7 +233,7 @@ As of August 2022, I have coauthored **85 ISI/SCOPUS research papers**. You can 
 
 1.	J Licinio, M Arcos-Burgos, S Liu, **JI Vélez** et al. _PHF21B_ gene: Association with Major Depressive Disorder and Modulation of the Stress Response, Proceedings Australian and New Zealand Journal of Psychiatry, 51, pp. 105-105.
 
-2.	**Vélez, J.I.**, Correa, J.C.: Tasa de Falsos Positivos en Microarreglos [False Discovery Rate in Microarrays]. Proceedings of the VII Regional Colloquium in Statistics: Applied Statistics. Medellin, Colombia, July 20-23, 2010. [website]
+2.	**Vélez, J.I.**, Correa, J.C.: Tasa de Falsos Positivos en Microarreglos [False Discovery Rate in Microarrays]. [Proceedings](https://www.inec.gob.pa/IASI/docs/announcements/documentos/MemoriasComunicaciones/5%20Velez_CorreaFalsosPositivos.pdf) of the VII Regional Colloquium in Statistics: Applied Statistics. Medellin, Colombia, July 20-23, 2010.  
 
 3.	Ángel-Guzmán, J., **Vélez, J.I.**, Correa, J.C.: Un test de diagnóstico de variable agregada para Regresión Poisson [An added variable diagnostic test in Poisson Regression].  Proceedings of the XIX Statistics Symposium: Official Statistics, Medellin, Colombia, July 16-20, 2009. 
 
